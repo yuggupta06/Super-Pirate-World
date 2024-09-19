@@ -1,0 +1,1 @@
+info.current_w,info.current_h
